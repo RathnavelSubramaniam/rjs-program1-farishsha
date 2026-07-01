@@ -4,7 +4,7 @@
  * @returns {boolean} True if prime, false otherwise.
  */
 const isPrime = (num) => {
-    if (num <= 1){
+    if (num<=1){
         return false;
     }
     for(let i = 2;i<num;i++){
