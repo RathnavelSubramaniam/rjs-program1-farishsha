@@ -22,8 +22,4 @@ else
     console.log(number+"is not a Prime Number");
 }
     
-    return false; // Change this return statement
-};
-
-// Export the function for the test cases
-module.exports = isPrime;
+   
