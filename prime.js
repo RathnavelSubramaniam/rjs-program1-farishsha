@@ -3,7 +3,7 @@
  * @param {number} num - The number to check.
  * @returns {boolean} True if prime, false otherwise.
  */
-const isPrime = (num) => {
+Const isPrime = (num) => {
     if (num<=1){
         return false;
     }
